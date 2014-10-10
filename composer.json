@@ -1,5 +1,5 @@
 {
-    "name": "edlcdmc/lib-phpthumb",
+    "name": "rkaiser0324/lib-phpthumb",
     "type": "library",
     "description": "phpThumb() uses the GD library to create thumbnails from images (GIF, PNG or JPEG) on the fly",
     "keywords": ["symfony2", "phpthumb"],
